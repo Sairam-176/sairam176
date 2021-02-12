@@ -1,0 +1,150 @@
+1) Which of the following are comprised within AI?
+Machine Learning
+Deep Learning
+Both (1) and (2)
+None of the above
+
+Correct answer: 3
+Both (1) and (2)
+
+Both Machine Learning and Deep Learning are the sub-categories of Artificial Intelligence. They are studied differently due to their depth of subject and vast areas of application.
+
+
+2) Pointing to a photograph of a boy Suresh said, "He is the son of the only son of my mother." How is Suresh related to that boy?
+
+A.	Brother
+B.	Uncle
+C.	Cousin
+D.	Father
+Answer: Option D
+
+Explanation:
+
+The boy in the photograph is the only son of the son of Suresh's mother i.e., the son of Suresh. Hence, Suresh is the father of boy.
+
+
+3. 	
+The total of the ages of Amar, Akbar and Anthony is 80 years. What was the total of their ages three years ago ?
+
+A.	71 years
+B.	72 years
+C.	74 years
+D.	77 years
+Answer: Option A
+
+Explanation:
+
+Required sum = (80 - 3 x 3) years = (80 - 9) years = 71 years.
+
+
+4 	
+A student got twice as many sums wrong as he got right. If he attempted 48 sums in all, how many did he solve correctly ?
+
+A.	12
+B.	16
+C.	18
+D.	24
+Answer: Option B
+
+Explanation:
+
+Suppose the boy got x sums right and 2x sums wrong.
+
+Then, x + 2x = 48  3x = 48  x = 16.
+
+
+
+
+5.
+desert
+
+A.	cactus
+B.	arid
+C.	oasis
+D.	flat
+Answer: Option B
+
+Explanation:
+
+A desert is an arid tract of land. Not all deserts are flat (choice d). Not all deserts have cacti or oases (choices a and c)
+
+
+	
+6) book
+
+A.	fiction
+B.	pages
+C.	pictures
+D.	learning
+Answer: Option B
+
+Explanation:
+
+The necessary part of a book is its pages; there is no book without pages. Not all books are fiction (choice a), and not all books have pictures (choice c). Learning (choice d) may or may not take place with a book
+
+
+
+
+7.
+Which is a valid keyword in java?
+
+A.	interface
+B.	string
+C.	Float
+D.	unsigned
+Answer: Option A
+
+Explanation:
+
+interface is a valid keyword.
+
+Option B is wrong because although "String" is a class type in Java, "string" is not a keyword.
+
+Option C is wrong because "Float" is a class type. The keyword for the Java primitive is float.
+
+Option D is wrong because "unsigned" is a keyword in C/C++ but not in Java.
+
+
+
+8.
+How long is an IPv6 address?
+
+A.	32 bits
+B.	128 bytes
+C.	64 bits
+D.	128 bits
+Answer: Option D
+
+Explanation:
+
+An IPv6 address is 128 bits long.
+
+9.
+What is the frequency range of the IEEE 802.11a standard?
+
+A.	2.4Gbps
+B.	5Gbps
+C.	2.4GHz
+D.	5GHz
+Answer: Option D
+
+Explanation:
+
+The IEEE 802.11a standard runs in the 5GHz RF range.
+
+
+10.
+
+What is the frequency range of the IEEE 802.11b standard?
+
+A.	2.4Gbps
+B.	5Gbps
+C.	2.4GHz
+D.	5GHz
+Answer: Option C
+
+Explanation:
+
+The IEEE 802.11b and IEEE 802.11g standards both run in the 2.4GHz RF range.
+
+
